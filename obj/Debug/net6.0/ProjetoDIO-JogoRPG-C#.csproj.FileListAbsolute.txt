@@ -1,0 +1,15 @@
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\bin\Debug\net6.0\ProjetoDIO-JogoRPG-C#.exe
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\bin\Debug\net6.0\ProjetoDIO-JogoRPG-C#.deps.json
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\bin\Debug\net6.0\ProjetoDIO-JogoRPG-C#.runtimeconfig.json
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\bin\Debug\net6.0\ProjetoDIO-JogoRPG-C#.dll
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\bin\Debug\net6.0\ProjetoDIO-JogoRPG-C#.pdb
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ProjetoDIO-JogoRPG-C#.csproj.AssemblyReference.cache
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ProjetoDIO-JogoRPG-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ProjetoDIO-JogoRPG-C#.AssemblyInfoInputs.cache
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ProjetoDIO-JogoRPG-C#.AssemblyInfo.cs
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ProjetoDIO-JogoRPG-C#.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ProjetoDIO-JogoRPG-C#.dll
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\refint\ProjetoDIO-JogoRPG-C#.dll
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ProjetoDIO-JogoRPG-C#.pdb
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ProjetoDIO-JogoRPG-C#.genruntimeconfig.cache
+C:\Users\Rafa\Documents\DEV\Todos projeto\ProjetoDIO-JogoRPG-C#\obj\Debug\net6.0\ref\ProjetoDIO-JogoRPG-C#.dll
